@@ -1,6 +1,6 @@
 # begin to build a simple program that models Instagram
 # you should have a User class, a Photo class and a comment class
-
+ 
 
 sandwich_photo = Photo.new
 sophie = User.new("Sophie")

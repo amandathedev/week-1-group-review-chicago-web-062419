@@ -3,7 +3,7 @@
 class Car
 
 
-
+ 
 end
 
 volvo_lightning = Car.new("Volvo", "Lightning")
